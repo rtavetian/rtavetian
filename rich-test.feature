@@ -6,6 +6,8 @@ Fonts: ...
 InVision Link: ...
 
 Scenario: When Rich creates a feature file
+[Desktop](url...)
+[Mobile](url...)
      Given he is learning Gherkin
      When Rich types something
      Then a Git Commit happens successfully
